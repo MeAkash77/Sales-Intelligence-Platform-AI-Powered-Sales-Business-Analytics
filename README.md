@@ -7,7 +7,7 @@ This is an interactive, end-to-end **Sales Intelligence Platform** built using P
 ## 🔗 Live App URL
 
 **Streamlit App**:
-[https://salesintelligenceplatform-ztvbawwvr74weynohuzuhl.streamlit.app/](https://salesintelligenceplatform-ztvbawwvr74weynohuzuhl.streamlit.app/)
+[https://sales-intelligence-platform-ai-powered-sales-business-analytic.streamlit.app/](https://sales-intelligence-platform-ai-powered-sales-business-analytic.streamlit.app/)
 
 ---
 
