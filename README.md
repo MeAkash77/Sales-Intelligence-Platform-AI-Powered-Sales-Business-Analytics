@@ -82,7 +82,7 @@ Sales_Intelligence_Platform/
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/Pratikchetry/Sales_Intelligence_Platform.git
+git clone https://github.com/MeAkash77/Sales-Intelligence-Platform-AI-Powered-Sales-Business-Analytics.git
 cd Sales_Intelligence_Platform
 ```
 
@@ -127,10 +127,8 @@ streamlit run app/dashboard.py
 
 ## 👤 About the Author
 
-**Name**: Pratik Chetry
-**GitHub**: https://github.com/Pratikchetry
-**LinkedIn**: https://www.linkedin.com/in/pratik-chetry/
-**Email**: chetrypratik2002@gmail.com
+**Name**: Akash
+**GitHub**: https://github.com/MeAkash77
 
 ---
 
